@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "996612961872",
+    "firebase_url": "https://fir-expenseapp-1be7b.firebaseio.com",
+    "project_id": "fir-expenseapp-1be7b",
+    "storage_bucket": "fir-expenseapp-1be7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996612961872:android:b337fbb013ed73c0",
+        "android_client_info": {
+          "package_name": "com.example.inclass08"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996612961872-a443201db6r43di1tp9nbbq33th154vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBONWriQYSYTHZeYsWdcFx09f4WMjeyJ-I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
